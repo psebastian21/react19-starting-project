@@ -24,7 +24,12 @@ function App() {
             />
           </ul>
         </section>
-        <h2>Time to get started!</h2>
+        <section id="examples">
+          <h2>Examples</h2>
+          <menu>
+            
+          </menu>
+        </section>
       </main>
     </div>
   );
